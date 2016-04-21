@@ -1,0 +1,6 @@
+#!/home/hanwei/Virtual_Environment/NLP/bin/python2.7
+
+import salttesting.jenkins
+
+if __name__ == '__main__':
+    salttesting.jenkins.main()
